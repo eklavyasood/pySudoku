@@ -2,3 +2,6 @@
 #+author: Eklavya Sood
 
 Just a simple Sudoku board built using PyGame, made in one morning
+
+pulls functions from a separate file
+also pulls boards from a file that sends them back randomized out of a dictionary of boards, so each run of the game gives a different randomized board
