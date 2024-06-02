@@ -1,0 +1,4 @@
+#+title: PyGame Sudoku
+#+author: Eklavya Sood
+
+Just a simple Sudoku board built using PyGame, made in one morning
